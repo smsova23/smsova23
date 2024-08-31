@@ -6,9 +6,6 @@
   - Creating a Live SOC/ Honeynet in Azure
  - <b>PowerShell</b>
   - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
-  - <b>Python</b>
-  - [Package Delivery Application Data Structures and Algorithms Demo)
-
 
 <h2> 🤳 Connect with me:</h2>
 
