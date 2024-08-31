@@ -4,17 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - Creating a Live SOC/ Honeynet in Azure
-  - Image Analysis Middleware <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+ - <b>PowerShell</b>
   - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
-  - JWipe (Disk Wiping Utility)
-  - Active Directory Bulk User Creation
-  - FIM (File Integrity Monitor)
-- <b>C# (.NET Desktop Applications)</b>
-  - Ransomware Proof of Concept (Encrypter)
-  - Ransomware Proof of Concept (Decrypter)
-  - Keylogger with Email Capability
-- <b>Python</b>
+  - <b>Python</b>
   - [Package Delivery Application Data Structures and Algorithms Demo)
 
 
